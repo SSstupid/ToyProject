@@ -1,0 +1,10 @@
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\bin\Debug\CustomerList.exe.config
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\bin\Debug\CustomerList.exe
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\bin\Debug\CustomerList.pdb
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\obj\Debug\CustomerList.csprojAssemblyReference.cache
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\obj\Debug\CustomerList.Form1.resources
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\obj\Debug\CustomerList.Properties.Resources.resources
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\obj\Debug\CustomerList.csproj.GenerateResource.cache
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\obj\Debug\CustomerList.csproj.CoreCompileInputs.cache
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\obj\Debug\CustomerList.exe
+C:\Users\rlawo\source\repos\CustomerList\CustomerList\obj\Debug\CustomerList.pdb
